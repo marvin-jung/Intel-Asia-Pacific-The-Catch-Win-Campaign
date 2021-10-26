@@ -20,7 +20,7 @@ Consumers relied heavily on the opinions of their social connections such as the
 
 <center>
 <img src="images/Emerging-market-data-1.png" style="zoom:50%;">
-</center> <br>
+</center> 
 
 As shown the chart, we can see that the demand for mobile phones was growing fast, becoming the best way to reach consumers than Internet. Indonesia and Pakistan have substantial mobile phone users – more than 100 millions. Hence, Intel had invested in building its own Facebook communities in the Asia-Pacific region. 
 
