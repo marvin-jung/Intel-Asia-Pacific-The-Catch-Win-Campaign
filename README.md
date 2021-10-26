@@ -41,7 +41,7 @@ We must achieve greater overall impressions and clicks optimizing the media plan
 
 ## The optimal solution to LP Model for Max. the number of impressions
 
-Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](excel/Linear Programming for Intel Asia Campaign.xlsx)
+Refer to excel file - <a href="excel/Linear Programming for Intel Asia Campaign.xlsx">Linear Programming for Intel Asia Campaign.xlsx</a>
 
 The solution reveals that the maximum number of impression of 73,312,500 occurs with the following decision variables for impressions table. Total click-throughs is 91,924
 
@@ -53,7 +53,7 @@ If the objective coefficient remains within the ranges of optimality, the optima
 
 ## The optimal solution to LP Model for Max. the number of click-throughs
 
-Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](excel/Linear Programming for Intel Asia Campaign.xlsx)
+Refer to excel file - <a href="excel/Linear Programming for Intel Asia Campaign.xlsx">Linear Programming for Intel Asia Campaign.xlsx</a>
 
 The solution reveals that the maximum number of click-throughs of 99,576 occurs with the following decision variables for impressions table. Total impression is 68,462,500
 
@@ -67,7 +67,7 @@ If we increase additional $1 budget, the value of objective function will increa
 
 We are going to explore the possibility of driving more consumers' interest by additional purchase on Mobile Ads in Korea, so that we will expect unused capacity in total impressions in Korea could be shifted to be available. 
 
-Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](excel/Linear Programming for Intel Asia Campaign.xlsx)
+Refer to excel file - <a href="excel/Linear Programming for Intel Asia Campaign.xlsx">Linear Programming for Intel Asia Campaign.xlsx</a>
 
 While we assume the unit cost per 1,000 impressions (CPM) for Mobile Ads CPM in Korea is $0.40, we can add a missing constraint in the established model. No Mobile Ad / Korea combination falls below 75 percent of the originally proposed number of impressions. 
 
