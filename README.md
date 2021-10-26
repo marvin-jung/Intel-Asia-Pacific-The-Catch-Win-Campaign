@@ -41,11 +41,11 @@ We must achieve greater overall impressions and clicks optimizing the media plan
 
 ## The optimal solution to LP Model for Max. the number of impressions
 
-Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](https://drive.google.com/file/d/13RulfGhKKtB1fWLSSFI8TqGMzrC6E2sz/view?usp=sharing)
+Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](./Linear Programming for Intel Asia Campaign.xlsx)
 
 The solution reveals that the maximum number of impression of 73,312,500 occurs with the following decision variables for impressions table. Total click-throughs is 91,924
 
-![](images\LP-solution-1.png)
+![](images/lp-solution-1.png)
 
 Hence, Marketplace Ads will be purchased 6,053,125 impressions more than original purchase plan. Premium Ads will be purchased 4,162,500 impressions less than original one. Mobile Ads will be purchased 12,771,875 impressions more than original purchase. 
 
@@ -57,7 +57,7 @@ Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](./Linear
 
 The solution reveals that the maximum number of click-throughs of 99,576 occurs with the following decision variables for impressions table. Total impression is 68,462,500
 
-![](images\LP-solution-2.png)
+![](images/lp-solution-2.png)
 
 Hence, Marketplace Ads will be purchased 17,498,242 impressions more than original purchase plan. Premium Ads will be purchased 3,935,742 impressions less than original one. Mobile Ads will be purchased 3,750,000 impressions less than original purchase. 
 
@@ -71,7 +71,7 @@ Refer to excel file - [Linear Programming for Intel Asia Campaign.xlsx](./Linear
 
 While we assume the unit cost per 1,000 impressions (CPM) for Mobile Ads CPM in Korea is $0.40, we can add a missing constraint in the established model. No Mobile Ad / Korea combination falls below 75 percent of the originally proposed number of impressions. 
 
-![](images/LP-solution-3.png)
+![](images/lp-solution-3.png)
 
 The solution reveals that the maximum number of click-throughs of 99,598 occurs with the following decision variables for impressions table. Total impression is 70,639,375, slack reduces by 2,176,875
 
@@ -114,9 +114,9 @@ We should drive more consumers' interest by additional purchase on Mobile Ads in
 
 - Objective function
      - Following relationship between the CTR and the impression is used:
-       <img src="images/Math-equation-1.png" style="zoom:50%;" />
+       <img src="images/math-equation-1.png" style="zoom:50%;" />
      - The following formula for generating the number of click-throughs given a CTR (%) : 
-       <img src="images/Math-equation-2.png" style="zoom:50%;" />
+       <img src="images/math-equation-2.png" style="zoom:50%;" />
      - A function that achieves this goal is maximize the number of click-throughs by optimizing the media plan 
 - Decision variables 
      - Decision variables must be the number of impressions each social advertising plan purchased
