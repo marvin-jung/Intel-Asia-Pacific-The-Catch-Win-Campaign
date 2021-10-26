@@ -1,10 +1,10 @@
 # Intel Asia-Pacific : The Catch & Win Campaign
 
-- Hult SF MsBA2 - Team 14 
-  - Percival Sibanda
-  - Jisung Jung
-  - Neha Gupta
-  - Sushmasri Takillapati
+< Hult SF MsBA2 - Team 14 >
+- Percival Sibanda
+- Jisung Jung
+- Neha Gupta
+- Sushmasri Takillapati
 
 ![Photo by dead____artist on Unsplash](images/asia-map.jpg)
 
